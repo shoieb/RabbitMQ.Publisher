@@ -1,0 +1,31 @@
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.deps.json
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.runtimeconfig.json
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.runtimeconfig.dev.json
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.dll
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.csproj.CoreCompileInputs.cache
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.AssemblyInfoInputs.cache
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.AssemblyInfo.cs
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.pdb
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.dll
+C:\Users\shoie\source\repos\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.pdb
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.deps.json
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.runtimeconfig.json
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.runtimeconfig.dev.json
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.dll
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.pdb
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.csproj.CoreCompileInputs.cache
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.AssemblyInfoInputs.cache
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.AssemblyInfo.cs
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.dll
+D:\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.pdb
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.deps.json
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.runtimeconfig.json
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.runtimeconfig.dev.json
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.dll
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\bin\Debug\netcoreapp2.0\RabbitMQ.Publisher.pdb
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.csprojResolveAssemblyReference.cache
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.csproj.CoreCompileInputs.cache
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.AssemblyInfoInputs.cache
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.AssemblyInfo.cs
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.dll
+D:\Docker test\RabbitMQ.Publisher\RabbitMQ.Publisher\obj\Debug\netcoreapp2.0\RabbitMQ.Publisher.pdb

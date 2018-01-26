@@ -1,0 +1,3 @@
+C:\Users\shoie\source\repos\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\RabbitMQ.Publisher\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Docker test\RabbitMQ.Publisher\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
