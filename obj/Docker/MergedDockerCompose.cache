@@ -10,7 +10,7 @@ services:
     - 15672:15672/tcp
   rabbitmq.publisher:
     build:
-      context: D:\Docker test\RabbitMQ.Publisher
+      context: C:\adfenix-codebase\RabbitMQ.Publisher
       dockerfile: RabbitMQ.Publisher/Dockerfile
     depends_on:
     - rabbitmq
