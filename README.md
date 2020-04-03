@@ -16,4 +16,4 @@ docker-compose build
 docker-compose up
 ```
 
-It will create a single message "Hello Wrold!"
+It will create a single message "Hello World!"
